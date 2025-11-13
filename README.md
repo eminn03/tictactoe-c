@@ -1,6 +1,6 @@
 # Terminal TicTacToe (C)
 
-This is a simple tictactoe game project written in c that runs on terminal
+This is a simple tictactoe game written in c, that runs on terminal
 
 ## Compiling
 
